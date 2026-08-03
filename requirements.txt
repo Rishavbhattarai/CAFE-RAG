@@ -1,0 +1,5 @@
+requests>=2.31
+tqdm>=4.66
+pydantic>=2.6
+ollama>=0.3
+chromadb>=1.5
