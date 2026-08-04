@@ -71,3 +71,16 @@ class LLMClassification(BaseModel):
     hazard_domains: list[str] = Field(default_factory=list)
     health_domains: list[str] = Field(default_factory=list)
     units_mentioned: list[str] = Field(default_factory=list)
+
+
+class QueryFilters(BaseModel):
+    """LLM-extracted structured intent from a natural-language search query
+    (Phase 5). Used as soft ranking boosts, not hard filters -- roughly half
+    of structured_datasets have empty hazard/health domains, so excluding on
+    them would drop plenty of genuinely relevant, just-under-classified
+    datasets."""
+    hazard_domains: list[str] = Field(default_factory=list)
+    health_domains: list[str] = Field(default_factory=list)
+    geographic_hints: list[str] = Field(default_factory=list)
+    year_min: int | None = None
+    year_max: int | None = None

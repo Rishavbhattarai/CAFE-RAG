@@ -1,0 +1,354 @@
+[
+  {
+    "query": "Population growth rates along the coast of West Africa",
+    "source_persistent_id": "doi:10.7910/DVN/Y7R8WW",
+    "source_title": "Taking Advantage of the Improved Availability of Census Data: A First Look at the Gridded Population of the World, Version 4",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/Y7R8WW"
+    ]
+  },
+  {
+    "query": "US data linking air pollution exposure and COVID-19 mortality rates",
+    "source_persistent_id": "doi:10.7910/DVN/3ZU0AS",
+    "source_title": "Replication Data for: Combining aggregate and individual-level data to estimate individual-level associations between air pollution and COVID-19 mortality in the United States",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/3ZU0AS"
+    ]
+  },
+  {
+    "query": "Impact of decentralized social policies on low-income family well-being",
+    "source_persistent_id": "doi:10.7910/DVN/9Y5U9L",
+    "source_title": "National Survey of America's Families (NSAF)",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/9Y5U9L"
+    ]
+  },
+  {
+    "query": "Historical air pollutant levels in US ZIP codes (PM2.5, Ozone, NO2)",
+    "source_persistent_id": "doi:10.7910/DVN/7KW1EN",
+    "source_title": "Air Pollution, Climate Conditions and Risk of Hospital Admissions for Psychotic Disorders in US Residents",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/7KW1EN"
+    ]
+  },
+  {
+    "query": "Historical air pollutant concentrations by county in the contiguous US",
+    "source_persistent_id": "doi:10.7910/DVN/WQT7YR",
+    "source_title": "Data Download",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/WQT7YR"
+    ]
+  },
+  {
+    "query": "Health care utilization and risk factors for Medicare beneficiaries",
+    "source_persistent_id": "doi:10.7910/DVN/HKXZ1E",
+    "source_title": "Medicare Current Beneficiary Survey (MCBS)",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/HKXZ1E"
+    ]
+  },
+  {
+    "query": "Statistics on violent crime victimization in the United States",
+    "source_persistent_id": "doi:10.7910/DVN/FS5LGA",
+    "source_title": "Criminal victimization 2015",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/FS5LGA"
+    ]
+  },
+  {
+    "query": "State-level sea level rise and coastal flooding projections",
+    "source_persistent_id": "doi:10.7910/DVN/9AWI8L",
+    "source_title": null,
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/9AWI8L"
+    ]
+  },
+  {
+    "query": "Global cyclone mortality risks and population exposure data",
+    "source_persistent_id": "doi:10.7910/DVN/0CFBVE",
+    "source_title": "Global Cyclone Proportional Economic Loss Risk Deciles",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/0CFBVE"
+    ]
+  },
+  {
+    "query": "Annual trace element components of PM2.5 across contiguous U.S. grids",
+    "source_persistent_id": "doi:10.7910/DVN/HR6BQX",
+    "source_title": "Annual Mean PM2.5 Components Trace Elements (TEs) 50m Urban and 1km Non-Urban Area Grids for Contiguous U.S., 2000-2019, v1",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/HR6BQX"
+    ]
+  },
+  {
+    "query": "Global indicators for biodiversity, habitat loss, and ecosystem change",
+    "source_persistent_id": "doi:10.7910/DVN/GKVHL9",
+    "source_title": "Millennium Ecosystem Assessment: MA Ecosystems",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/GKVHL9"
+    ]
+  },
+  {
+    "query": "EPA historical records of industrial chemical usage and emissions",
+    "source_persistent_id": "doi:10.7910/DVN/DGSBXU",
+    "source_title": "Access Chemical Data Reporting Data",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/DGSBXU"
+    ]
+  },
+  {
+    "query": "Environmental health risks and climate change impacts on human populations",
+    "source_persistent_id": "doi:10.7910/DVN/SH2PNB",
+    "source_title": "NIEHS Research (website section)",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/SH2PNB"
+    ]
+  },
+  {
+    "query": "Future heat exposure risk based on social vulnerability and climate projections.",
+    "source_persistent_id": "doi:10.7910/DVN/JQOYDI",
+    "source_title": "CMIP6 Global Climate Models; Social Vulnerability Index; Gao et al., Population Projections at 1km Grid",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/JQOYDI"
+    ]
+  },
+  {
+    "query": "National all-payer database for hospital discharge charges and outcomes",
+    "source_persistent_id": "doi:10.7910/DVN/UXHCOW",
+    "source_title": "Nationwide Inpatient Sample (NIS)",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/UXHCOW"
+    ]
+  },
+  {
+    "query": "Risk factors associated with poor maternal or infant birth outcomes",
+    "source_persistent_id": "doi:10.7910/DVN/BDXXJI",
+    "source_title": "National Maternal and Infant Health Survey",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/BDXXJI"
+    ]
+  },
+  {
+    "query": "Maternal mortality rates and causes of death by state",
+    "source_persistent_id": "doi:10.7910/DVN/NLIFTL",
+    "source_title": "Pregnancy Mortality Surveillance System",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/NLIFTL"
+    ]
+  },
+  {
+    "query": "Alternative fuels data for understanding transportation emissions reduction",
+    "source_persistent_id": "doi:10.7910/DVN/OTUHRM",
+    "source_title": null,
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/OTUHRM"
+    ]
+  },
+  {
+    "query": "Annual incidence of Valley Fever cases by US state",
+    "source_persistent_id": "doi:10.7910/DVN/2PP0I7",
+    "source_title": "Reported Cases of Valley Fever",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/2PP0I7"
+    ]
+  },
+  {
+    "query": "Global rasters for mapping land cover and surface water extent",
+    "source_persistent_id": "doi:10.7910/DVN/ZKLOEX",
+    "source_title": "Gridded Population of the World, Version 4 (GPWv4): Population Density Adjusted to Match 2015 Revision UN WPP Country Totals, Revision 11",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/ZKLOEX"
+    ]
+  },
+  {
+    "query": "State-level survey data on health behaviors, chronic disease risk, and access to care.",
+    "source_persistent_id": "doi:10.7910/DVN/LD5MPT",
+    "source_title": "Behavioral Risk Factor Surveillance System (BRFSS)",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/LD5MPT"
+    ]
+  },
+  {
+    "query": "Child mortality linked to environmental protection and water access indices",
+    "source_persistent_id": "doi:10.7910/DVN/TVSI2Y",
+    "source_title": "Natural Resource Protection and Child Health Indicators, 2021 Release",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/TVSI2Y"
+    ]
+  },
+  {
+    "query": "Pipeline mileage statistics for gas and hazardous liquid transport.",
+    "source_persistent_id": "doi:10.7910/DVN/MD8PST",
+    "source_title": null,
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/MD8PST"
+    ]
+  },
+  {
+    "query": "Global seismic hazard mapping for earthquake risk assessment",
+    "source_persistent_id": "doi:10.7910/DVN/8NZ31H",
+    "source_title": "Global Earthquake Proportional Economic Loss Risk Deciles",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/8NZ31H"
+    ]
+  },
+  {
+    "query": "Global data on human population pressure and land use change.",
+    "source_persistent_id": "doi:10.7910/DVN/5K3OBU",
+    "source_title": "Last of the Wild Project, Version 2, 2005 (LWP-2): Global Human Influence Index (HII) Dataset (IGHP)",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/5K3OBU"
+    ]
+  },
+  {
+    "query": "Road length measurements by census tract for infrastructure exposure",
+    "source_persistent_id": "doi:10.7910/DVN/QN92JF",
+    "source_title": "2020 TIGER/Line Shapefiles: Roads",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/QN92JF"
+    ]
+  },
+  {
+    "query": "Long-term trends in North American bird populations due to climate change",
+    "source_persistent_id": "doi:10.7910/DVN/QFT9HX",
+    "source_title": "The North American Breeding Bird Survey (BBS) is a large-scale, long-term monitoring program designed to track the status and trends of North American bird populations. ",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/QFT9HX"
+    ]
+  },
+  {
+    "query": "Historical wildfire burn severity data and trends across the U.S.",
+    "source_persistent_id": "doi:10.7910/DVN/SEAKQG",
+    "source_title": null,
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/SEAKQG"
+    ]
+  },
+  {
+    "query": "Chronic condition prevalence from Medicare fee-for-service claims",
+    "source_persistent_id": "doi:10.7910/DVN/BFCWDK",
+    "source_title": "CMS Chronic Conditions Data Warehouse (CCW)",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/BFCWDK"
+    ]
+  },
+  {
+    "query": "Ecological region maps and environmental classification for US states",
+    "source_persistent_id": "doi:10.7910/DVN/3PPO24",
+    "source_title": "Level III & IV Ecoregions by State",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/3PPO24"
+    ]
+  },
+  {
+    "query": "Automated surface weather observations from NOAA",
+    "source_persistent_id": "doi:10.7910/DVN/N0SFKO",
+    "source_title": "Weather monitoring data",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/N0SFKO"
+    ]
+  },
+  {
+    "query": "Global historical data for built-up area and population density",
+    "source_persistent_id": "doi:10.7910/DVN/BEWJN2",
+    "source_title": "Documentation for the GHSL: Population and Built-Up Estimates, and Degree of Urbanization Settlement Model Grid",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/BEWJN2"
+    ]
+  },
+  {
+    "query": "Data on energy consumption rates of household products or appliances",
+    "source_persistent_id": "doi:10.7910/DVN/FHXCQG",
+    "source_title": "ENERGY STAR Certified Product Data Sets",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/FHXCQG"
+    ]
+  },
+  {
+    "query": "Gridded historical US population and socioeconomic demographics",
+    "source_persistent_id": "doi:10.7910/DVN/QN5XQO",
+    "source_title": "U.S. Census Grids (Summary File 1), 2010",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/QN5XQO"
+    ]
+  },
+  {
+    "query": "Wildfire monitoring data for assessing air quality and water impacts",
+    "source_persistent_id": "doi:10.7910/DVN/CVSJPG",
+    "source_title": null,
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/CVSJPG"
+    ]
+  },
+  {
+    "query": "Human trafficking crime statistics by US state and year",
+    "source_persistent_id": "doi:10.7910/DVN/QIHX2R",
+    "source_title": "Human Trafficking Offenses and Clearances by State, 2014 ",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/QIHX2R"
+    ]
+  },
+  {
+    "query": "Contact directory or phonebook for USGS staff members",
+    "source_persistent_id": "doi:10.7910/DVN/7Z78KN",
+    "source_title": "United States Geological Survey: Employee Phonebook ",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/7Z78KN"
+    ]
+  },
+  {
+    "query": "Global mapping of urban and rural population boundaries by country",
+    "source_persistent_id": "doi:10.7910/DVN/XOOQJA",
+    "source_title": "Global Rural-Urban Mapping Project, Version 1 (GRUMPv1): Urban Extents Grid",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/XOOQJA"
+    ]
+  },
+  {
+    "query": "Global model predictions of aerosol deposition and dust sedimentation rates.",
+    "source_persistent_id": "doi:10.7910/DVN/1RZESM",
+    "source_title": null,
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/1RZESM"
+    ]
+  },
+  {
+    "query": "Global historical monthly data for temperature and precipitation extremes",
+    "source_persistent_id": "doi:10.7910/DVN/D7D1HP",
+    "source_title": "Climate Data Online - Global Summary of the Month",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/D7D1HP"
+    ]
+  },
+  {
+    "query": "National database of death records and causes of death",
+    "source_persistent_id": "doi:10.7910/DVN/Z2CNFV",
+    "source_title": "National death index (NDI)",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/Z2CNFV"
+    ]
+  },
+  {
+    "query": "Historical daily smoke plume tracking from wildfires in North America",
+    "source_persistent_id": "doi:10.7910/DVN/E17GEH",
+    "source_title": null,
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/E17GEH"
+    ]
+  },
+  {
+    "query": "Historical global estimates of human population density",
+    "source_persistent_id": "doi:10.7910/DVN/TGGNSU",
+    "source_title": "Gridded Population of the World, Version 4 (GPWv4): Population Density Adjusted to Match 2015 Revision UN WPP Country Totals, Revision 11",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/TGGNSU"
+    ]
+  },
+  {
+    "query": "Chemical accidents investigation reports root causes and prevention recommendations",
+    "source_persistent_id": "doi:10.7910/DVN/PSIW70",
+    "source_title": "Past Investigations; Recommendations",
+    "relevant_persistent_ids": [
+      "doi:10.7910/DVN/PSIW70"
+    ]
+  }
+]

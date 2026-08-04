@@ -70,8 +70,11 @@ CREATE INDEX IF NOT EXISTS idx_edges_type ON dataset_edges(edge_type);
 
 
 def connect(db_path: str | Path) -> sqlite3.Connection:
+    """check_same_thread=False: Streamlit (app.py) can rerun a cached
+    connection from a different worker thread than the one that created it;
+    the app is single-user/sequential so concurrent access isn't a concern."""
     Path(db_path).parent.mkdir(parents=True, exist_ok=True)
-    conn = sqlite3.connect(db_path)
+    conn = sqlite3.connect(db_path, check_same_thread=False)
     conn.executescript(SCHEMA)
     return conn
 

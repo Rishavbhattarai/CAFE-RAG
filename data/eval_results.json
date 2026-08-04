@@ -1,0 +1,277 @@
+{
+  "metrics": {
+    "recall@1": 0.5454545454545454,
+    "recall@3": 0.6818181818181818,
+    "recall@5": 0.7045454545454546,
+    "recall@10": 0.7727272727272727,
+    "mrr": 0.6349424133814087,
+    "not_found_in_top": 4,
+    "n_queries": 44
+  },
+  "per_query": [
+    {
+      "query": "Population growth rates along the coast of West Africa",
+      "source_persistent_id": "doi:10.7910/DVN/Y7R8WW",
+      "rank": 7,
+      "reciprocal_rank": 0.14285714285714285
+    },
+    {
+      "query": "US data linking air pollution exposure and COVID-19 mortality rates",
+      "source_persistent_id": "doi:10.7910/DVN/3ZU0AS",
+      "rank": 3,
+      "reciprocal_rank": 0.3333333333333333
+    },
+    {
+      "query": "Impact of decentralized social policies on low-income family well-being",
+      "source_persistent_id": "doi:10.7910/DVN/9Y5U9L",
+      "rank": 1,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "Historical air pollutant levels in US ZIP codes (PM2.5, Ozone, NO2)",
+      "source_persistent_id": "doi:10.7910/DVN/7KW1EN",
+      "rank": 1,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "Historical air pollutant concentrations by county in the contiguous US",
+      "source_persistent_id": "doi:10.7910/DVN/WQT7YR",
+      "rank": null,
+      "reciprocal_rank": 0.0
+    },
+    {
+      "query": "Health care utilization and risk factors for Medicare beneficiaries",
+      "source_persistent_id": "doi:10.7910/DVN/HKXZ1E",
+      "rank": 1,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "Statistics on violent crime victimization in the United States",
+      "source_persistent_id": "doi:10.7910/DVN/FS5LGA",
+      "rank": 18,
+      "reciprocal_rank": 0.05555555555555555
+    },
+    {
+      "query": "State-level sea level rise and coastal flooding projections",
+      "source_persistent_id": "doi:10.7910/DVN/9AWI8L",
+      "rank": 8,
+      "reciprocal_rank": 0.125
+    },
+    {
+      "query": "Global cyclone mortality risks and population exposure data",
+      "source_persistent_id": "doi:10.7910/DVN/0CFBVE",
+      "rank": 1,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "Annual trace element components of PM2.5 across contiguous U.S. grids",
+      "source_persistent_id": "doi:10.7910/DVN/HR6BQX",
+      "rank": 1,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "Global indicators for biodiversity, habitat loss, and ecosystem change",
+      "source_persistent_id": "doi:10.7910/DVN/GKVHL9",
+      "rank": 1,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "EPA historical records of industrial chemical usage and emissions",
+      "source_persistent_id": "doi:10.7910/DVN/DGSBXU",
+      "rank": null,
+      "reciprocal_rank": 0.0
+    },
+    {
+      "query": "Environmental health risks and climate change impacts on human populations",
+      "source_persistent_id": "doi:10.7910/DVN/SH2PNB",
+      "rank": null,
+      "reciprocal_rank": 0.0
+    },
+    {
+      "query": "Future heat exposure risk based on social vulnerability and climate projections.",
+      "source_persistent_id": "doi:10.7910/DVN/JQOYDI",
+      "rank": 1,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "National all-payer database for hospital discharge charges and outcomes",
+      "source_persistent_id": "doi:10.7910/DVN/UXHCOW",
+      "rank": 1,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "Risk factors associated with poor maternal or infant birth outcomes",
+      "source_persistent_id": "doi:10.7910/DVN/BDXXJI",
+      "rank": 19,
+      "reciprocal_rank": 0.05263157894736842
+    },
+    {
+      "query": "Maternal mortality rates and causes of death by state",
+      "source_persistent_id": "doi:10.7910/DVN/NLIFTL",
+      "rank": 2,
+      "reciprocal_rank": 0.5
+    },
+    {
+      "query": "Alternative fuels data for understanding transportation emissions reduction",
+      "source_persistent_id": "doi:10.7910/DVN/OTUHRM",
+      "rank": 2,
+      "reciprocal_rank": 0.5
+    },
+    {
+      "query": "Annual incidence of Valley Fever cases by US state",
+      "source_persistent_id": "doi:10.7910/DVN/2PP0I7",
+      "rank": 1,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "Global rasters for mapping land cover and surface water extent",
+      "source_persistent_id": "doi:10.7910/DVN/ZKLOEX",
+      "rank": 1,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "State-level survey data on health behaviors, chronic disease risk, and access to care.",
+      "source_persistent_id": "doi:10.7910/DVN/LD5MPT",
+      "rank": 1,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "Child mortality linked to environmental protection and water access indices",
+      "source_persistent_id": "doi:10.7910/DVN/TVSI2Y",
+      "rank": 13,
+      "reciprocal_rank": 0.07692307692307693
+    },
+    {
+      "query": "Pipeline mileage statistics for gas and hazardous liquid transport.",
+      "source_persistent_id": "doi:10.7910/DVN/MD8PST",
+      "rank": 1,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "Global seismic hazard mapping for earthquake risk assessment",
+      "source_persistent_id": "doi:10.7910/DVN/8NZ31H",
+      "rank": 1,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "Global data on human population pressure and land use change.",
+      "source_persistent_id": "doi:10.7910/DVN/5K3OBU",
+      "rank": 6,
+      "reciprocal_rank": 0.16666666666666666
+    },
+    {
+      "query": "Road length measurements by census tract for infrastructure exposure",
+      "source_persistent_id": "doi:10.7910/DVN/QN92JF",
+      "rank": 1,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "Long-term trends in North American bird populations due to climate change",
+      "source_persistent_id": "doi:10.7910/DVN/QFT9HX",
+      "rank": null,
+      "reciprocal_rank": 0.0
+    },
+    {
+      "query": "Historical wildfire burn severity data and trends across the U.S.",
+      "source_persistent_id": "doi:10.7910/DVN/SEAKQG",
+      "rank": 2,
+      "reciprocal_rank": 0.5
+    },
+    {
+      "query": "Chronic condition prevalence from Medicare fee-for-service claims",
+      "source_persistent_id": "doi:10.7910/DVN/BFCWDK",
+      "rank": 1,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "Ecological region maps and environmental classification for US states",
+      "source_persistent_id": "doi:10.7910/DVN/3PPO24",
+      "rank": 15,
+      "reciprocal_rank": 0.06666666666666667
+    },
+    {
+      "query": "Automated surface weather observations from NOAA",
+      "source_persistent_id": "doi:10.7910/DVN/N0SFKO",
+      "rank": 1,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "Global historical data for built-up area and population density",
+      "source_persistent_id": "doi:10.7910/DVN/BEWJN2",
+      "rank": 1,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "Data on energy consumption rates of household products or appliances",
+      "source_persistent_id": "doi:10.7910/DVN/FHXCQG",
+      "rank": 13,
+      "reciprocal_rank": 0.07692307692307693
+    },
+    {
+      "query": "Gridded historical US population and socioeconomic demographics",
+      "source_persistent_id": "doi:10.7910/DVN/QN5XQO",
+      "rank": 2,
+      "reciprocal_rank": 0.5
+    },
+    {
+      "query": "Wildfire monitoring data for assessing air quality and water impacts",
+      "source_persistent_id": "doi:10.7910/DVN/CVSJPG",
+      "rank": 1,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "Human trafficking crime statistics by US state and year",
+      "source_persistent_id": "doi:10.7910/DVN/QIHX2R",
+      "rank": 11,
+      "reciprocal_rank": 0.09090909090909091
+    },
+    {
+      "query": "Contact directory or phonebook for USGS staff members",
+      "source_persistent_id": "doi:10.7910/DVN/7Z78KN",
+      "rank": 1,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "Global mapping of urban and rural population boundaries by country",
+      "source_persistent_id": "doi:10.7910/DVN/XOOQJA",
+      "rank": 1,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "Global model predictions of aerosol deposition and dust sedimentation rates.",
+      "source_persistent_id": "doi:10.7910/DVN/1RZESM",
+      "rank": 4,
+      "reciprocal_rank": 0.25
+    },
+    {
+      "query": "Global historical monthly data for temperature and precipitation extremes",
+      "source_persistent_id": "doi:10.7910/DVN/D7D1HP",
+      "rank": 1,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "National database of death records and causes of death",
+      "source_persistent_id": "doi:10.7910/DVN/Z2CNFV",
+      "rank": 1,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "Historical daily smoke plume tracking from wildfires in North America",
+      "source_persistent_id": "doi:10.7910/DVN/E17GEH",
+      "rank": 1,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "Historical global estimates of human population density",
+      "source_persistent_id": "doi:10.7910/DVN/TGGNSU",
+      "rank": 2,
+      "reciprocal_rank": 0.5
+    },
+    {
+      "query": "Chemical accidents investigation reports root causes and prevention recommendations",
+      "source_persistent_id": "doi:10.7910/DVN/PSIW70",
+      "rank": 1,
+      "reciprocal_rank": 1.0
+    }
+  ]
+}
