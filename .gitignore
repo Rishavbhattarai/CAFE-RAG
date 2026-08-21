@@ -5,3 +5,4 @@ venv/
 data/raw/
 data/*.db
 .env
+.DS_Store
